@@ -1,2 +1,3 @@
 # master-layout-challenge
-Master Front End Challenge
+Master Front End Layout Challenge
+Create a layout demo for a streaming video platform
